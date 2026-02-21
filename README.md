@@ -16,8 +16,8 @@ npm run dev
 
 
 ## Checklist em % para upgrades que quero implementar
-[70%] API em memória funcionando
-[0%] SQLite
-[0%] exercícios
-[0%] auth
+[70%] API em memória funcionando  
+[0%] SQLite  
+[0%] exercícios  
+[0%] auth  
 
